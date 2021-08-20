@@ -132,7 +132,7 @@ for (var i = 0; i < 6; i++) {
      
       
         
-        <button  className="btn btn-danger" onClick={showModal} >View </button>
+        <button  className="btn btn-danger mx-2" onClick={showModal} >View </button>
         <button  className="btn btn-primary" onClick={() => takeScreenshot()}>screenshot</button>
         
         </h1>

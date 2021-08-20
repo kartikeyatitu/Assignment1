@@ -14,3 +14,10 @@
 - Open the app and type a place of your choice - the map of that place will pop with zoomed
 - Press the screenshot button it will take the screenshot 
 - Click On The View Button to see the 3-D effect
+
+ ![Main Page](/img/snaptrude1.png)
+ ![Search Place](/img/snaptrude2.png)
+ ![3-D Modal](/img/snaptrude2.png)
+ ![Ok](/img/snaptrude4.png)
+ ![Ok1](/img/snaptrude5.png)
+ 
