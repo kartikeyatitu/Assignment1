@@ -27,3 +27,4 @@
  
 
  Note-> Create .env file and add REACT_APP_GOOGLE_MAPS_API_KEY="Your Api Key"
+ Wait for sometime if 3-d effect does not show up or refresh
