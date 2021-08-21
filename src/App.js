@@ -5,7 +5,7 @@ import { Engine, Scene, FreeCamera, HemisphericLight, Sphere, Ground,Box,ArcRota
 //antd for creating the modal
 import 'antd/dist/antd.css';
 import {Vector3} from 'babylonjs';
-import SceneComponent from 'babylonjs-hook';
+
 import {  Color3,Vector4 } from "@babylonjs/core";
 //useScreenshot hook has been used to take screenshot and the existing state of that image is passed as picture to standard Material for wrapping with the texture
 import { useScreenshot } from "use-screenshot-hook";
